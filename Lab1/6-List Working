@@ -1,1 +1,5 @@
 tot_gen=0.3
+list1=['Data1', 80977.3,31,0.1]
+list2=['Data2', 80977.4,32.0.7]
+tot_gen=tot_gen+list1[3]+list2[3]
+print("Generation today=",tot_gen)
