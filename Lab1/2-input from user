@@ -1,0 +1,4 @@
+today_gen=0.3
+gen31 = float(input("Enter Generation in Block 31:"))
+today_gen= today_gen+gen31
+print("Genration today=",today_gen)
