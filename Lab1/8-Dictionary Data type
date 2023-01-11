@@ -1,0 +1,6 @@
+dict1={'Data': 'Data1', 'Block': 31, 'Generation in each Block': 0.1}
+dict2={'Data': 'Data2', 'Block': 32, 'Generation in each Block': 0.7}
+print(dict1)
+print(dict2)
+print(dict1.keys())
+print(
