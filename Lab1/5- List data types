@@ -1,0 +1,10 @@
+list1=['Data1', 80977.3,31,0.1]
+list2=['Data2', 80977.4,32.0.7]
+print(list1)
+print(list2)
+print(list1,list2)
+print(list1[0:2])
+print(list1[1:])
+print(list1[0])
+print(list1*2)
+print(list1+list2)
