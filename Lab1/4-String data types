@@ -1,0 +1,7 @@
+str = "Solar Data Set"
+print(str)
+print(str[0])
+print(str[5:10])
+print(str[5:])
+print(str*2)
+print(str + " for Python Program")
