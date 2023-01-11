@@ -1,0 +1,2 @@
+programe = input("Enter the program name:")
+print(programe)
